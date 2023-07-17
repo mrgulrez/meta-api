@@ -34,7 +34,8 @@ If you would like to contribute to this codebase, you can follow these steps:
 
 ## Issues
 
-If you encounter any issues while using the code in this repository, please feel free to open an issue on the [GitHub issue tracker]([[https://github.com/your/repository](https://github.com/mrgulrez/meta-api)](https://github.com/mrgulrez/meta-api)/issues). Be sure to provide detailed information about the problem, including any error messages or stack traces if applicable.
+If you encounter any issues while using the code in this repository, please feel free to open an issue on the [GitHub issue tracker](https://github.com/mrgulrez/meta-api/issues). Be sure to provide detailed information about the problem, including any error messages or stack traces if applicable.
+
 
 ## Contact
 
