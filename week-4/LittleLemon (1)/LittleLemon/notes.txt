@@ -1,0 +1,15 @@
+Super User:
+    username: admin
+    password: lemon@adm
+
+Manager:
+    username: harrypotter
+    password: database@12
+
+Delivery crew:
+    username: johndoe
+    password: database@12
+
+Customer: 
+    username: ron
+    password: database@12

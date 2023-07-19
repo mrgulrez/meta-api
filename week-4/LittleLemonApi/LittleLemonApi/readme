@@ -1,0 +1,6 @@
+i used djoser for user authentification and registration 
+and virtualenv env to create a virtual environment since pipenv wasn't working on my pc
+to activate virtual env go to folder and  type in terminal source env/bin/activate if you are using linux 
+
+password admin:123456789 
+username : ouarda email :admin@gmail.com
